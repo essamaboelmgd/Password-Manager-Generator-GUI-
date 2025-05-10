@@ -1,4 +1,3 @@
-# Password Manager & Generator (GUI)
 <h1 align="center">🔐 Password Manager & Generator (GUI)</h1>
 
 ## 💡 How To Install
@@ -12,33 +11,34 @@ pip install -r requirements.txt
 ```
 ## 🔐 Features
 🔒 Password Generator
-Low Security: 12 chars (Letters, Numbers, Symbols)
 
-Medium Security: 18 chars (Letters, Numbers, Symbols)
+  Low Security: 12 chars (Letters, Numbers, Symbols)
 
-High Security: 24 chars (Letters, Numbers, Symbols)
+  Medium Security: 18 chars (Letters, Numbers, Symbols)
+
+  High Security: 24 chars (Letters, Numbers, Symbols)
 
 🗄️ Password Vault
 Stores securely:
 
-Website/App name
+  Website/App name
 
-Username
+  Username
 
-Generated passwords (encrypted)
+  Generated passwords (encrypted)
 
 🔐 Security
-Master password protection (admin123)
+  Master password protection (admin123)
 
-Hidden password display
+  Hidden password display
 
-Shoulder-surfing prevention
+  Shoulder-surfing prevention
 
 ✨ User Benefits
-One-click generation
+  One-click generation
 
-Organized credential storage
+  Organized credential storage
 
-No plaintext exposure
+  No plaintext exposure
 
-All-in-one solution
+  All-in-one solution
