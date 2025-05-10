@@ -5,11 +5,11 @@
 ```bash
 1. Copy the repo link
 2. Run: git clone [repo-link]
-
+```
 ## 🛠️ Requirements Installation
 ```bash
 pip install -r requirements.txt
-
+```
 ## 🔐 Features
 🔒 Password Generator
 Low Security: 12 chars (Letters, Numbers, Symbols)
