@@ -1,43 +1,44 @@
-<h1 align="center">Password Manager & Generator (GUI)</h1>
+# Password Manager & Generator (GUI)
+<h1 align="center">🔐 Password Manager & Generator (GUI)</h1>
 
-## 💡 How To Install The Repo : 
-	1- Copy The Repo Link
-	2- use : git clone (Repo Link)
+## 💡 How To Install
+```bash
+1. Copy the repo link
+2. Run: git clone [repo-link]
 
-## 🛠️ How To Install The Libraries :
-	pip install -r requirements.txt
+## 🛠️ Requirements Installation
+```bash
+pip install -r requirements.txt
 
-## 🔐 About Program :
-	1️⃣ Generates Secure Random Passwords with 3 strength levels:
+## 🔐 Features
+🔒 Password Generator
+Low Security: 12 chars (Letters, Numbers, Symbols)
 
-		Low: 12 char Has Letters, numbers & symbols
+Medium Security: 18 chars (Letters, Numbers, Symbols)
 
-		Medium: 18 char Has Letters, numbers & symbols
+High Security: 24 chars (Letters, Numbers, Symbols)
 
-		High: 24 char Has Letters, numbers & symbols
+🗄️ Password Vault
+Stores securely:
 
-	2️⃣ Encrypted Password Vault stores:
+Website/App name
 
-		Website/App name
+Username
 
-		Username
+Generated passwords (encrypted)
 
-		Generated password (hidden)
+🔐 Security
+Master password protection (admin123)
 
-	3️⃣ Security Features:
+Hidden password display
 
-		Master password protected (admin123)
+Shoulder-surfing prevention
 
-		Passwords only visible after authentication
+✨ User Benefits
+One-click generation
 
-		Prevents shoulder surfing
+Organized credential storage
 
-	4️⃣ User Benefits:
+No plaintext exposure
 
-		One-click password generation
-
-		Organized credential storage
-
-		No plaintext password exposure
-
-		Perfect for users who need both password creation and secure management in one tool!
+All-in-one solution
